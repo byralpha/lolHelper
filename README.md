@@ -1,9 +1,8 @@
-<div style="display: inline-flex; align-items: center;">
-  <img src="https://github.com/byralpha/lolHelper/blob/main/img/LoLHelper.png" width="55" height="55" style="vertical-align: top; margin-right: 20px;"/>
-  <span style="font-size: 120px; font-weight: bold;">lolHelper</span>
-</div>
-
-<p style="font-size: 20px; color: #333;">帮助你快速上分,对抗ELO。</p>
-
-<p style="font-size: 20px; color: #333;">软件采用微信 Windows 版同款技术Qt C++ 开发，确保零延迟、零卡顿，帮助你第一时间掌握全局数据。</p>
-
+</head>
+<body>
+    <h1 style="text-transform: uppercase;">LoLHelper <img src="https://github.com/byralpha/lolHelper/blob/main/img/LoLHelper.png" alt="LoLHelper" style="width:50px;height:50px;"></h1>
+    <p>帮助你快速上分，对抗ELO。</p>
+    <p>软件采用微信 Windows 版同款技术Qt C++ 开发，确保零延迟、零卡顿，帮助你第一时间掌握全局数据。</p>
+    <!-- 你的其他内容 -->
+</body>
+</html>
