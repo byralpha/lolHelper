@@ -1,8 +1,5 @@
 <div style="display: inline-flex; align-items: center;">
-  <img src="https://github.com/byralpha/lolHelper/blob/main/img/LoLHelper.png" width="55" height="55" style="vertical-align: top;"/>
-</div>
-
-<div>
+  <img src="https://github.com/byralpha/lolHelper/blob/main/img/LoLHelper.png" width="55" height="55" style="vertical-align: top; margin-right: 20px;"/>
   <span style="font-size: 120px; font-weight: bold;">lolHelper</span>
 </div>
 
