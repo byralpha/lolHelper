@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <span style="font-size: 80px; font-weight: bold;">lolHelper</span>
+  <span style="font-size: 120px; font-weight: bold;">lolHelper</span>
 </div>
 
 <p style="font-size: 30px;">帮助你快速上分,对抗ELO。</p>
