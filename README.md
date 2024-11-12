@@ -1,4 +1,7 @@
-<img src="https://github.com/byralpha/lolHelper/blob/main/img/LoLHelper.png" width="55" height="55"/>   <h1 style="font-size: 50px;">lolHelper</h1>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/byralpha/lolHelper/blob/main/img/LoLHelper.png" width="55" height="55" />
+  <h1 style="font-size: 50px; margin-left: 10px;">lolHelper</h1>
+</div>
  
 帮助你快速上分,对抗ELO。
 
