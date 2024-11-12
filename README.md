@@ -1,5 +1,5 @@
 <img src="https://github.com/byralpha/lolHelper/blob/main/img/LoLHelper.png" width="55" height="55" style="vertical-align: middle;"/> 
-<span style="font-size: 50px;">lolHelper</span>
+<span style="font-size: 70px;">lolHelper</span>
 
 帮助你快速上分,对抗ELO。
 
